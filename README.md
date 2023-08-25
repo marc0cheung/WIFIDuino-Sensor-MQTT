@@ -1,5 +1,5 @@
 # WIFIDuino-Sensor-MQTT
-This project is from my Graduation Thesis "Single-chip Soil Temperature and Humidity Detection System Design Based on Wi-Fi Technology".
+This project is from my Graduation Thesis " Wi-Fi Technology Based Single-chip Soil Temperature and Humidity Detection System Design".
 
 This repo contains source code and PCB Design of the Soil temperature and humidity detector prototype based on Arduino and MQTT Protocol, companion Android App developed via MIT App Inventor 2.
 
